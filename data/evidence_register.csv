@@ -1,1 +1,11 @@
-
+evidence_id,control_id,evidence_name,evidence_type,evidence_owner,evidence_status,evidence_quality,review_notes
+E-001,C-001,Quarterly privileged access review export,Access Review,Identity and Access Team,Provided,Good,Shows privileged users and review date but requires clearer approval record
+E-002,C-002,Cloud logging configuration screenshot,System Configuration,Security Operations Team,Provided,Partial,Logging enabled for production but retention period needs confirmation
+E-003,C-003,Data classification register spreadsheet,Register,Data Governance Team,Missing,Weak,Register not yet uploaded for review
+E-004,C-004,Vendor security questionnaire for sample supplier,Vendor Evidence,Procurement and GRC Team,Provided,Good,Questionnaire provided with risk rating and approval notes
+E-005,C-005,Vulnerability remediation ticket export,Remediation Evidence,Application Security Team,Provided,Partial,Ticket exists but closure validation scan is missing
+E-006,C-006,Control evidence register,Governance Register,GRC Team,Provided,Good,Clear mapping between controls owners evidence status and review notes
+E-007,C-007,Security change approval ticket,Change Record,Engineering Team,Provided,Partial,Approval recorded but rollback evidence is missing
+E-008,C-008,Cloud storage public access block screenshot,System Configuration,Cloud Security Team,Provided,Good,Shows public access block enabled for target storage assets
+E-009,C-009,Incident response playbook review notes,Procedure Review,Security Operations Team,Missing,Weak,Playbook review evidence not yet provided
+E-010,C-010,Privacy impact review checklist,Privacy Review,Privacy and Legal Team,Provided,Partial,DPIA style checklist exists but treatment decision requires sign off
