@@ -1,1 +1,11 @@
-
+risk_id,risk_title,risk_category,business_impact,likelihood,impact,inherent_risk_rating,control_status,risk_owner,treatment_decision
+R-001,Excessive privileged access in production systems,Identity and Access Management,Unauthorised access could lead to data exposure system misuse or audit failure,Possible,Major,High,Partially Implemented,Identity and Access Team,Reduce
+R-002,Incomplete logging for critical cloud activities,Logging and Monitoring,Security events may not be detected investigated or evidenced during audit,Possible,Major,High,Partially Implemented,Security Operations Team,Reduce
+R-003,Sensitive data stored without clear classification,Data Protection and Privacy,Personal or sensitive data may be mishandled retained too long or accessed by unauthorised users,Likely,Major,High,Partially Implemented,Data Governance Team,Reduce
+R-004,Third-party vendor security evidence not consistently reviewed,Third-Party Risk,Vendor weaknesses may remain unidentified leading to compliance privacy or operational risk,Possible,Moderate,Medium,Partially Implemented,Procurement and GRC Team,Reduce
+R-005,Delayed remediation of high severity vulnerabilities,Vulnerability Management,Exploitable weaknesses may remain open beyond acceptable risk tolerance,Likely,Major,High,Partially Implemented,Application Security Team,Reduce
+R-006,Unclear ownership for security control evidence,Security Governance,Audit evidence may be incomplete inconsistent or difficult to defend during assurance review,Possible,Moderate,Medium,Partially Implemented,GRC Team,Reduce
+R-007,Weak change traceability for security-relevant system updates,Change and Release Governance,Security-related changes may be difficult to verify approve or roll back,Possible,Moderate,Medium,Partially Implemented,Engineering Team,Reduce
+R-008,Cloud storage exposure due to misconfiguration,Cloud Security,Public or overly broad access may expose confidential or regulated data,Possible,Major,High,Partially Implemented,Cloud Security Team,Reduce
+R-009,Incident response procedures not fully evidenced,Incident Response,Response actions may be inconsistent during incidents and difficult to evidence after the event,Unlikely,Major,Medium,Partially Implemented,Security Operations Team,Reduce
+R-010,Privacy review gaps for new data processing activities,Privacy Governance,New processing activities may proceed without adequate DPIA style review or risk treatment,Possible,Major,High,Partially Implemented,Privacy and Legal Team,Reduce
