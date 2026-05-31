@@ -1,1 +1,11 @@
-
+remediation_id,linked_risk_id,control_id,remediation_action,priority,owner,status,target_date,closure_evidence_required
+REM-001,R-001,C-001,Remove unnecessary privileged access and document approval for remaining admin users,High,Identity and Access Team,In Progress,2026-06-15,Updated access review export and approval record
+REM-002,R-002,C-002,Confirm cloud log retention settings and evidence centralised monitoring coverage,High,Security Operations Team,Open,2026-06-20,Logging retention screenshot and monitoring validation record
+REM-003,R-003,C-003,Complete data classification register for sensitive datasets,High,Data Governance Team,Open,2026-06-25,Approved data classification register
+REM-004,R-004,C-004,Standardise vendor evidence checklist and approval workflow,Medium,Procurement and GRC Team,In Progress,2026-07-05,Updated vendor review template and sample completed assessment
+REM-005,R-005,C-005,Validate high severity vulnerability remediation with follow-up scan,High,Application Security Team,In Progress,2026-06-18,Post-remediation scan result and closure approval
+REM-006,R-006,C-006,Review evidence register monthly and flag incomplete evidence,Medium,GRC Team,Closed,2026-06-01,Reviewed evidence register and quality notes
+REM-007,R-007,C-007,Add rollback evidence requirement to security change workflow,Medium,Engineering Team,Open,2026-07-10,Updated change checklist and sample approved change
+REM-008,R-008,C-008,Review storage permissions and confirm public access restrictions,High,Cloud Security Team,In Progress,2026-06-17,Access review and public access block confirmation
+REM-009,R-009,C-009,Conduct incident response playbook review and document actions,Medium,Security Operations Team,Open,2026-07-20,Playbook review notes and action tracker
+REM-010,R-010,C-010,Add sign-off step to privacy impact review workflow,High,Privacy and Legal Team,Open,2026-06-28,Signed privacy impact review and risk treatment decision
