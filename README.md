@@ -313,5 +313,4 @@ This project uses simulated cybersecurity GRC data for portfolio and learning pu
 
 **Parisa Shojaei**
 
-Cybersecurity GRC · Cloud Security · Privacy Governance · Risk Analytics · AI Assurance
-Python · SQL · AWS · Jira
+Cybersecurity GRC · Cloud Security · Privacy Governance · Risk Analytics · AI Assurance | Turning risks into audit-ready evidence
